@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74b2f06120b14263",
+        "id": "e671994e7e8b5603",
         "type": "tabs",
         "children": [
           {
-            "id": "d37e4f1517c4e472",
+            "id": "d67b27788b08091f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "未命名 1"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "未命名 1 的反向链接列表"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "未命名 1 的出链列表"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
+                "file": "未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "未命名 1 的大纲"
             }
           }
         ]
@@ -179,11 +180,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d37e4f1517c4e472",
+  "active": "d67b27788b08091f",
   "lastOpenFiles": [
-    "未命名.base"
+    "未命名.base",
+    "未命名 1.md",
+    "未命名.md"
   ]
 }
